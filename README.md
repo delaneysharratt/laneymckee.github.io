@@ -1,7 +1,9 @@
 # Delaney Sharratt — Personal Portfolio
 
 This repository contains the code for my personal portfolio website.
+
 The live, deployed version of this website can be found at:
+- https://laneymckee.github.io/
 
 ## Credits
 
