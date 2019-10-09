@@ -7,7 +7,8 @@ The live, deployed version of this website can be found at:
 
 ## Credits
 
-Original template provided by [Start Bootstrap](https://startbootstrap.com), based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+Original template provided by [Start Bootstrap](https://startbootstrap.com).
+This template is based on the [Bootstrap](http://getbootstrap.com/) framework.
 
 ## Copyright and License
 
